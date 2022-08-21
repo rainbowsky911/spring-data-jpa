@@ -40,3 +40,25 @@ Spring For All 是什么
 Spring For All 玩最纯粹的技术！做最专业的 Spring 民间组织~
 
 欢迎关注我的公众号：城南共读
+
+
+
+
+
+
+
+
+JPA学习网站
+
+
+[Open JPA简介](https://www.hxstrive.com/subject/open_jpa/520.htm)
+
+
+[Spring Data -JPA 复杂查询](https://www.bbsmax.com/A/kmzLKyeBdG/)
+
+
+
+[知乎Spring Jpa Specification 使用示例](https://zhuanlan.zhihu.com/p/311801352)
+
+
+[使用Spec时的一个查询错误](https://stackoverflow.com/questions/53820207/illegalstateexception-using-criteriabuilder-for-getting-a-list-in-java)
